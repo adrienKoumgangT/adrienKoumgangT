@@ -5,7 +5,7 @@
 - 📫 How to reach me :
     * gmail: adrientkoumgang@gmail.com
     * mail PEC: adrien.koumgang@timpec.it
-    * phone number: +39 371 333 2812
+    * phone number: +39 371 333 2812 / +33 75 38 59 835
     * linkedin: https://www.linkedin.com/in/adrien-koumgang-tegantchouang
 
 <!---
