@@ -1,13 +1,37 @@
-- 👋 Hi, I’m Adrien Koumgang Tegantchouang
-- 👀 I’m interested in sotfware programming and especially in the field of artificial intelligence
-- 🌱 I’m currently a student at the University of Pise
-- 💞️ I’m looking to collaborate on projects that focus on marchine learning and cross-platform application development
-- 📫 How to reach me :
-    * gmail: adrientkoumgang@gmail.com
-    * mail PEC: adrien.koumgang@timpec.it
-    * phone number: +39 371 333 2812 / +33 75 38 59 835
-    * linkedin: https://www.linkedin.com/in/adrien-koumgang-tegantchouang
+<h1>
+  Hi, I’m Adrien Koumgang Tegantchouang
+</h1>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/64235641">
+    </td>
+  </tr>
+</table>
+
+<p>
+ <i>I’m an Analyst Programmer. On a professional level, I have a great passion for programming, mainly in the development of machine learning software, web and mobile applications. I also have a passion for collecting and analyzing data. On a personal level, I'm a big fan of manga and webtoon, I like to read books on personal development and productivity, and play tennis. I have a particular passion for Formula 1 racing.</i>
+</p>
+
+<a target="_blank" href="https://join.skype.com/invite/lUzRaFRCWifg" target="_blank">
+ <img alt="Email" src="https://img.shields.io/badge/Skype-0078D4.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+</a>
+<a target="_blank" href="mailto:adrientkoumgang@gmail.com" target="_blank">
+<img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/adrien-koumgang-tegantchouang/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a target="_blank" href="https://twitter.com/adrienkoumgangt" target="_blank">
+<img alt="Twitter" src="https://img.shields.io/badge/@Adrien_KT-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a target="_blank" href="https://www.behance.net/adrienkoumgang" target="_blank">
+ <img alt="Email" src="https://img.shields.io/badge/Behance-0078D4.svg?&style=for-the-badge&logo=behance&logoColor=white" />
+</a>
+<a target="_blank" href="https://adrienkoumgangt.github.io/" target="_blank">
+<img alt="Blog" src="https://img.shields.io/badge/WebSite-FD8308.svg?&style=for-the-badge&logo=micro.blog&logoColor=white" />
+</a>
 
 <table width="100%">
   <tr>
