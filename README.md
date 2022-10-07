@@ -5,14 +5,21 @@
 <table>
   <tr>
     <td>
+      <p>
+        <i>I’m an Analyst Programmer.
+          On a professional level, I have a great passion for programming, mainly in the development of machine learning software, web and mobile applications.
+          I also have a passion for collecting and analyzing data.
+          On a personal level, I'm a big fan of manga and webtoon, I like to read books on personal development and productivity, and play tennis.
+          I have a particular passion for Formula 1 racing.</i>
+      </p>
+    </td>
+    <td>
       <img src="https://avatars.githubusercontent.com/u/64235641">
     </td>
   </tr>
 </table>
 
-<p>
- <i>I’m an Analyst Programmer. On a professional level, I have a great passion for programming, mainly in the development of machine learning software, web and mobile applications. I also have a passion for collecting and analyzing data. On a personal level, I'm a big fan of manga and webtoon, I like to read books on personal development and productivity, and play tennis. I have a particular passion for Formula 1 racing.</i>
-</p>
+
 
 <a target="_blank" href="https://join.skype.com/invite/lUzRaFRCWifg" target="_blank">
  <img alt="Email" src="https://img.shields.io/badge/Skype-0078D4.svg?&style=for-the-badge&logo=skype&logoColor=white" />
@@ -36,8 +43,10 @@
 <table width="100%">
   <tr>
     <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrienKoumgangT&show_icons=true&hide_border=true" /> </td>
- <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrienKoumgangT&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrienKoumgangT&show_icons=true&hide_border=true" />
+    </td>
+ <td>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrienKoumgangT&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </td>
   </tr>
  <table>
 
