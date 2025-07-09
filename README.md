@@ -6,7 +6,7 @@
 
 🎓 Master's Student in **Artificial Intelligence & Data Engineering**  
 💡 Passionate about solving real-world problems with code and data  
-🛠️ Full-stack & backend developer | Cloud | AI | Data | Rust & Python Enthusiast
+🛠️ Full-stack & backend developer | Cloud | AI | Data | Rust, Java & Python Enthusiast
 
 ---
 
