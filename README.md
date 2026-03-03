@@ -6,7 +6,7 @@
 
 🎓 Master's Student in **Artificial Intelligence & Data Engineering**  
 💡 Passionate about solving real-world problems with code and data  
-🛠️ Full-stack & backend developer | Cloud | AI | Data | Rust, Java & Python Enthusiast
+🛠️ Backend developer | Cloud | AI | Data | Rust, Java & Python Enthusiast
 
 ---
 
@@ -15,7 +15,7 @@
 I'm Adrien, a software developer and AI engineer in training who thrives on building intelligent, secure, and scalable applications. I specialize in:
 
 - Machine Learning, Data Mining, Recommender Systems  
-- Clean Architecture, Modular Design, Microservices  
+- Clean Architecture, Modular Design, Microservices, Distributed systems
 - Backend Engineering with Python, Rust, Java, MySQL, MongoDB, Redis  
 - Web & Mobile Development with React, Angular, REST, GraphQL  
 - Authentication Systems, Caching Layers, Cloud-Native APIs  
@@ -24,9 +24,7 @@ I'm Adrien, a software developer and AI engineer in training who thrives on buil
 ---
 
 ## Current Projects
-
-- **Smart News Aggregator** – Flask + React + MongoDB + Redis  
-- **Modular Graph Decomposition** – Rust & SageMath for high-perf graph theory  
+ 
 - **Camer Platform** – Multi-module social infrastructure for education, commerce, and more  
 - **Life Management App** – Unified app for finances, goals, projects, productivity  
 
