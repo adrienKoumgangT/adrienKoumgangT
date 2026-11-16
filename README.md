@@ -14,7 +14,7 @@ I design and build scalable, cloud-native systems and I am moving them toward ma
 | Project | What it is | Stack |
 |---|---|---|
 | [DistriQueue](https://github.com/adrienKoumgangT/distriqueue) | High-availability distributed job scheduler with fault-tolerant task orchestration | Erlang/OTP, RabbitMQ, Java |
-| [FinLife API](https://github.com/adrienKoumgangT/finlife-api-rust) | Back end for an app that manages finances, projects and planning | Rust, [database] |
+| [FinLife API](https://github.com/adrienKoumgangT/finlife-api-rust) | Back end for an app that manages finances, projects and planning | Rust, Mysql, Redis |
 | [Student Dropout Classifier](https://github.com/adrienKoumgangT/student-dropout-classifier) | Machine learning system to predict student dropout risk in higher education, enabling early intervention and improved retention rates | Python, Jupyter Notebook, Scikit-learn, Numpy, Pandas, Matplotlib, xgboost |
 
 ## Currently
